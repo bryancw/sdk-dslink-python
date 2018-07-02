@@ -1,4 +1,4 @@
-from dslink.Serializers import serializers
+from .Serializers import serializers
 from .Request import Request
 from .Response import Response
 
