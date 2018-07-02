@@ -1,7 +1,7 @@
 import json
 import msgpack
 
-from dslink.Util import base64_encode
+from .Util import base64_encode
 
 
 class Serializer:
